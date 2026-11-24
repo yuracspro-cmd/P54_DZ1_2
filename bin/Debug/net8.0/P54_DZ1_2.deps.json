@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "P54_DZ1_2/1.0.0": {
+        "runtime": {
+          "P54_DZ1_2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P54_DZ1_2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

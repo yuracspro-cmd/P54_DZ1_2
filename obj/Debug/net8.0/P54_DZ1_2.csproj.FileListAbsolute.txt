@@ -1,0 +1,15 @@
+/Users/xpert/Desktop/P54_DZ1_2/bin/Debug/net8.0/P54_DZ1_2
+/Users/xpert/Desktop/P54_DZ1_2/bin/Debug/net8.0/P54_DZ1_2.deps.json
+/Users/xpert/Desktop/P54_DZ1_2/bin/Debug/net8.0/P54_DZ1_2.runtimeconfig.json
+/Users/xpert/Desktop/P54_DZ1_2/bin/Debug/net8.0/P54_DZ1_2.dll
+/Users/xpert/Desktop/P54_DZ1_2/bin/Debug/net8.0/P54_DZ1_2.pdb
+/Users/xpert/Desktop/P54_DZ1_2/obj/Debug/net8.0/P54_DZ1_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xpert/Desktop/P54_DZ1_2/obj/Debug/net8.0/P54_DZ1_2.AssemblyInfoInputs.cache
+/Users/xpert/Desktop/P54_DZ1_2/obj/Debug/net8.0/P54_DZ1_2.AssemblyInfo.cs
+/Users/xpert/Desktop/P54_DZ1_2/obj/Debug/net8.0/P54_DZ1_2.csproj.CoreCompileInputs.cache
+/Users/xpert/Desktop/P54_DZ1_2/obj/Debug/net8.0/P54_DZ1_2.sourcelink.json
+/Users/xpert/Desktop/P54_DZ1_2/obj/Debug/net8.0/P54_DZ1_2.dll
+/Users/xpert/Desktop/P54_DZ1_2/obj/Debug/net8.0/refint/P54_DZ1_2.dll
+/Users/xpert/Desktop/P54_DZ1_2/obj/Debug/net8.0/P54_DZ1_2.pdb
+/Users/xpert/Desktop/P54_DZ1_2/obj/Debug/net8.0/P54_DZ1_2.genruntimeconfig.cache
+/Users/xpert/Desktop/P54_DZ1_2/obj/Debug/net8.0/ref/P54_DZ1_2.dll
